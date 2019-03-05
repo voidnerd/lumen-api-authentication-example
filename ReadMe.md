@@ -1,6 +1,6 @@
 # Lumen API Authentication Example
 
-#Controllers
+# Controllers
 
 controllers are on `App\Http\Controllers`.
 
